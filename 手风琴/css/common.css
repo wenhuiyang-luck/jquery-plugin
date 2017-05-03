@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/css?family=Jacques+Francois);
+@import url(http://fonts.googleapis.com/css?family=Quattrocento+Sans);
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: url('../image/bg.jpg');
+	font-family: 'Jacques Francois', serif;
+	color: #fff;
+}
+
+
+.container {
+	width: 500px;
+	margin: 150px auto;
+}
+
+.content {
+	background-color: #fff;
+	color: #666;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+}
+
+h2, h3 {
+    font-weight: normal;
+    margin: 0;
+}
+
+h2 {
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 230%;
+    line-height: 1em;
+    padding: 20px 0 0 20px;
+}
+
+h3 {
+    font-size: 90%;
+    letter-spacing: 0.2em;
+}
+
+p {
+    font-family: 'Quattrocento Sans', sans-serif;
+    line-height: 1.4em;}
+
+a {
+    text-decoration: none;
+}
+
+button {
+	border: none;
+    font-size: 90%;
+    text-align: left;
+    text-transform: uppercase;
+}

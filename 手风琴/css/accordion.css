@@ -1,0 +1,23 @@
+.menu {
+  background-color: #f2f2f2;
+  list-style-type: none;
+  color: #666;
+}
+
+.accordion-control {
+	background-color: #303030;
+	color: #fff;
+	display: block;
+	width: 100%;
+	padding: 8px 10px;
+	border-top: 1px solid #666;
+}
+
+.accordion-content {
+	display: none;
+}
+
+.accordion-content p {
+	margin: 20px;
+}
+
