@@ -5,7 +5,7 @@
 ```
 <script src="js/jquery.accordion-plugin.js"></script>
 <script>
-    $('.menu').accordion();
+    $('.menu').accordion(500);
 </script>
 ```
 - [选项卡](https://wenhuiyang-luck.github.io/jquery-plugin/选项卡/index.html)
@@ -13,6 +13,6 @@
 ```
 <script src="js/jquery.tab-plugin.js"></script>
 <script>
-	$('.tabs').tab();
+    $('.tabs').tab();
 </script>
 ```
