@@ -5,9 +5,10 @@
 	margin: 0;
 	padding: 0;
 }
+
 body {
 	background-image: url('../image/bg.jpg');
-	font-family: 'Jacques Francois', serif;
+	font-family: 'Jacques Francois', sans-serif;
 	color: #fff;
 }
 
@@ -17,11 +18,15 @@ body {
 	margin: 150px auto;
 }
 
-.panel {
+.content {
 	background-color: #fff;
 	color: #666;
 	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 	overflow: hidden;
+}
+
+body, button {
+    font-family: 'Jacques Francois', sans-serif;
 }
 
 h2, h3 {
@@ -45,14 +50,15 @@ h3 {
 
 p {
     font-family: 'Quattrocento Sans', sans-serif;
-    line-height: 1.4em;}
+    line-height: 1.4em;
+}
 
 a {
     text-decoration: none;
 }
 
 button {
-	border: none;
+    border: none;
     font-size: 90%;
     text-align: left;
     text-transform: uppercase;
