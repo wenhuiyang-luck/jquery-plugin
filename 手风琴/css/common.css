@@ -45,14 +45,15 @@ h3 {
 
 p {
     font-family: 'Quattrocento Sans', sans-serif;
-    line-height: 1.4em;}
+    line-height: 1.4em;
+}
 
 a {
     text-decoration: none;
 }
 
 button {
-	border: none;
+    border: none;
     font-size: 90%;
     text-align: left;
     text-transform: uppercase;
