@@ -19,3 +19,12 @@
     $('.tabs').tab();
 </script>
 ```
+
+- [照片查看器](https://wenhuiyang-luck.github.io/jquery-plugin/照片查看器/index.html)
+
+```js
+<script src="js/jquery.photoViewer-plugin.js"></script>
+<script>
+	$('.thumb').photoViewer();
+</script>
+```
