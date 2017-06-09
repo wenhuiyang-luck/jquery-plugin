@@ -25,6 +25,6 @@
 ```js
 <script src="js/jquery.photoViewer-plugin.js"></script>
 <script>
-	$('.thumb').photoViewer();
+    $('.thumb').photoViewer();
 </script>
 ```
