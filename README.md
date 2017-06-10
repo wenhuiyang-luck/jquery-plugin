@@ -29,7 +29,7 @@
 </script>
 ```
 
-- [轮播](https://wenhuiyang-luck.github.io/jquery-plugin轮播/index.html)
+- [轮播](https://wenhuiyang-luck.github.io/jquery-plugin/轮播/index.html)
 
 ```js
 <script src="js/jquery.slide-plugin.js"></script>
