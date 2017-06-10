@@ -60,4 +60,4 @@
 
 		$('.thumb').eq(0).click();  // 默认显示第一张
 	}
-})(jQuery);
+}(jQuery));
