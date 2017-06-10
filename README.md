@@ -28,3 +28,12 @@
     $('.thumb').photoViewer();
 </script>
 ```
+
+- [轮播](https://wenhuiyang-luck.github.io/jquery-plugin轮播/index.html)
+
+```js
+<script src="js/jquery.slide-plugin.js"></script>
+<script>
+    $('.slider').slider();
+</script>
+```
